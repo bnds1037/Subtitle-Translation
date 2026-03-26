@@ -50,7 +50,7 @@ Subtitle Translation is
 
 1.  克隆本仓库:
     ```bash
-    git clone [https://github.com/(你的用户名)/(你的仓库名).git](https://github.com/(你的用户名)/(你的仓库名).git)
+    git clone [https://github.com/bnds1037/Subtitle-Translation.git](https://github.com/bnds1037/Subtitle-Translation.git)
     ```
 2.  (可选) 如果使用了 CocoaPods 或 Swift Package Manager:
     ```bash
@@ -74,7 +74,7 @@ Subtitle Translation is
 ## 👤 作者
 
 * **(你的名字)** - (例如: iOS Developer / Student)
-* GitHub: [@(你的用户名)](https://github.com/bnds1037))
+* GitHub: [@(bnds1037)](https://github.com/bnds1037))
 * Email: (例如: bnds.hust.1037@gmail.com - 可选)
 
 ## 📄 许可证
